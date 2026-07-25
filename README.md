@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
