@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
