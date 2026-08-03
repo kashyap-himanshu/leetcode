@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kashyap-himanshu/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
