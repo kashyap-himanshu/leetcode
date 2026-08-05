@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kashyap-himanshu/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
