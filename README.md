@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kashyap-himanshu/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashyap-himanshu/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/kashyap-himanshu/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kashyap-himanshu/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
