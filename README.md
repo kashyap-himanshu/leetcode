@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
