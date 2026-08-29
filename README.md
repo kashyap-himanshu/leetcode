@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kashyap-himanshu/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
