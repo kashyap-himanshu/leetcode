@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kashyap-himanshu/leetcode/tree/master/0733-flood-fill) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/kashyap-himanshu/leetcode/tree/master/1046-last-stone-weight) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kashyap-himanshu/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
