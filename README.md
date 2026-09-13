@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/kashyap-himanshu/leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0835-image-overlap) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/kashyap-himanshu/leetcode/tree/master/1046-last-stone-weight) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kashyap-himanshu/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kashyap-himanshu/leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0835-image-overlap) |
 ## Graph Theory
 |  |
 | ------- |
