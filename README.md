@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/kashyap-himanshu/leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashyap-himanshu/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashyap-himanshu/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/kashyap-himanshu/leetcode/tree/master/0841-keys-and-rooms) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
