@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kashyap-himanshu/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
