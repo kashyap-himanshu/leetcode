@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashyap-himanshu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kashyap-himanshu/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashyap-himanshu/leetcode/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kashyap-himanshu/leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0836-rectangle-overlap) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 ## Enumeration
 |  |
