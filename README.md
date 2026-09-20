@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0796-rotate-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kashyap-himanshu/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
