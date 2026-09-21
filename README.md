@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kashyap-himanshu/leetcode/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -454,9 +455,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kashyap-himanshu/leetcode/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
