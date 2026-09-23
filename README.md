@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -183,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kashyap-himanshu/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
