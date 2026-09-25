@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kashyap-himanshu/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kashyap-himanshu/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashyap-himanshu/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kashyap-himanshu/leetcode/tree/master/0070-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Number Theory
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kashyap-himanshu/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
