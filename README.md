@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0796-rotate-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kashyap-himanshu/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
