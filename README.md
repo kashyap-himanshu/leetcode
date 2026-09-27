@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashyap-himanshu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashyap-himanshu/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kashyap-himanshu/leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/kashyap-himanshu/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kashyap-himanshu/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashyap-himanshu/leetcode/tree/master/0071-simplify-path) |
+| [0290-word-pattern](https://github.com/kashyap-himanshu/leetcode/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
