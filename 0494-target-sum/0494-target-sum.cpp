@@ -5,13 +5,13 @@ int fun(vector<int>&nums,int target,vector<vector<int>> &dp,int n,int i,int sum,
         return 1;
     }
     if(i==n)return 0;
-    if(dp[i][sum+tot]!=-1){
-        return dp[i][sum+tot];
-    }
+    // if(dp[i][sum+tot]!=-1){
+    //     return dp[i][sum+tot];
+    // }
     int yes=fun(nums,target,dp,n,i+1,sum+nums[i],tot);
     int no=fun(nums,target,dp,n,i+1,sum-nums[i],tot);
-    dp[i][sum+tot]=yes+no;
-    return dp[i][sum+tot];
+   // dp[i][sum+tot]=yes+no;
+    return yes+no;
 }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
