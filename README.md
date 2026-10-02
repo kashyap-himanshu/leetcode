@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kashyap-himanshu/leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashyap-himanshu/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/kashyap-himanshu/leetcode/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Number Theory
@@ -517,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kashyap-himanshu/leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
