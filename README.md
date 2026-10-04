@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kashyap-himanshu/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/kashyap-himanshu/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashyap-himanshu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashyap-himanshu/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kashyap-himanshu/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kashyap-himanshu/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/kashyap-himanshu/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/kashyap-himanshu/leetcode/tree/master/0216-combination-sum-iii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/kashyap-himanshu/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/kashyap-himanshu/leetcode/tree/master/0389-find-the-difference) |
 ## Enumeration
