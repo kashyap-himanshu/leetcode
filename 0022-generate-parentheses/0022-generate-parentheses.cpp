@@ -1,27 +1,25 @@
 class Solution {
 public:
-void gp(int n,int open,int close,string &temp,vector<string> &res){
-    if(open==n && close==n){
-        res.push_back(temp);
-        return;
+void fun(int n,int l,int r,vector<string>& ans,string &temp){
+    if(l==n && r==n){
+        ans.push_back(temp);
     }
-    if(open<n){
+    if(l<n){
         temp.push_back('(');
-        gp(n,open+1,close,temp,res);
+        fun(n,l+1,r,ans,temp);
         temp.pop_back();
     }
-    if(close<open){
+    if(r<l){
         temp.push_back(')');
-         gp(n,open,close+1,temp,res);
-         temp.pop_back();
-         return;
+          fun(n,l,r+1,ans,temp);
+        temp.pop_back();
     }
 }
     vector<string> generateParenthesis(int n) {
+        vector<string> ans;
         string temp;
-        vector<string> res;
-        gp(n,0,0,temp,res);
-        return res;
+        fun(n,0,0,ans,temp);
+        return ans;
         
     }
 };
