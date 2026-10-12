@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0835-image-overlap) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kashyap-himanshu/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1046-last-stone-weight](https://github.com/kashyap-himanshu/leetcode/tree/master/1046-last-stone-weight) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashyap-himanshu/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kashyap-himanshu/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Number Theory
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kashyap-himanshu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/kashyap-himanshu/leetcode/tree/master/0389-find-the-difference) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kashyap-himanshu/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kashyap-himanshu/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
