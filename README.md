@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/kashyap-himanshu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kashyap-himanshu/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/kashyap-himanshu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/kashyap-himanshu/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kashyap-himanshu/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/kashyap-himanshu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kashyap-himanshu/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashyap-himanshu/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
