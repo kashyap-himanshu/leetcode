@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kashyap-himanshu/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/kashyap-himanshu/leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/kashyap-himanshu/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashyap-himanshu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/kashyap-himanshu/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kashyap-himanshu/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
