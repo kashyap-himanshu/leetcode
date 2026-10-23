@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kashyap-himanshu/leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/kashyap-himanshu/leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/kashyap-himanshu/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
