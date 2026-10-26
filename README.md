@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kashyap-himanshu/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3708-longest-fibonacci-subarray](https://github.com/kashyap-himanshu/leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kashyap-himanshu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kashyap-himanshu/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kashyap-himanshu/leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/kashyap-himanshu/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashyap-himanshu/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
