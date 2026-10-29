@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kashyap-himanshu/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/kashyap-himanshu/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/kashyap-himanshu/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kashyap-himanshu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kashyap-himanshu/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kashyap-himanshu/leetcode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/kashyap-himanshu/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/kashyap-himanshu/leetcode/tree/master/0778-swim-in-rising-water) |
