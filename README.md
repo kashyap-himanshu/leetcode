@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kashyap-himanshu/leetcode/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/kashyap-himanshu/leetcode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0796-rotate-string) |
 | [0838-push-dominoes](https://github.com/kashyap-himanshu/leetcode/tree/master/0838-push-dominoes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/kashyap-himanshu/leetcode/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/kashyap-himanshu/leetcode/tree/master/0838-push-dominoes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
