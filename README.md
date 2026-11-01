@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashyap-himanshu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kashyap-himanshu/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kashyap-himanshu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kashyap-himanshu/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-himanshu/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kashyap-himanshu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kashyap-himanshu/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashyap-himanshu/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kashyap-himanshu/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kashyap-himanshu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kashyap-himanshu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/kashyap-himanshu/leetcode/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/kashyap-himanshu/leetcode/tree/master/0838-push-dominoes) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kashyap-himanshu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kashyap-himanshu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
