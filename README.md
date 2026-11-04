@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kashyap-himanshu/leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/kashyap-himanshu/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kashyap-himanshu/leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/kashyap-himanshu/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashyap-himanshu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/kashyap-himanshu/leetcode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/kashyap-himanshu/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kashyap-himanshu/leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0767-reorganize-string) |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kashyap-himanshu/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kashyap-himanshu/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
