@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/kashyap-himanshu/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/kashyap-himanshu/leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/kashyap-himanshu/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kashyap-himanshu/leetcode/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-himanshu/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/kashyap-himanshu/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kashyap-himanshu/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kashyap-himanshu/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kashyap-himanshu/leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/kashyap-himanshu/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kashyap-himanshu/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kashyap-himanshu/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashyap-himanshu/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kashyap-himanshu/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kashyap-himanshu/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/kashyap-himanshu/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kashyap-himanshu/leetcode/tree/master/0415-add-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashyap-himanshu/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/kashyap-himanshu/leetcode/tree/master/3498-reverse-degree-of-a-string) |
